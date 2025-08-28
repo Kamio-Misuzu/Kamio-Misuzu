@@ -40,6 +40,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 
 ### 📊 GitHub Stats
 [![Kamio-Misuzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamio-Misuzu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
