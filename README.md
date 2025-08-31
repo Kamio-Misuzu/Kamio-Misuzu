@@ -53,5 +53,7 @@
 </a>
 
 ### 访客人数
-<img src="https://count.kjchmc.cn/get/@-Mouse-Pointer-Beautification?theme=asoul" alt="如果您无法看到此内容，请刷新页面。">  
+<a href="https://github.com/Kamio-Misuzu" target="_blank" rel="noopener noreferrer">
+    <img src="https://count.kjchmc.cn/get/@-Mouse-Pointer-Beautification?theme=asoul" alt="访问 Kamio-Misuzu 的 GitHub 主页">
+</a>
 <!-- ![Visitor Count](https://komarev.com/ghpvc/?username=Kamio-Misuzu&color=blueviolet) -->
