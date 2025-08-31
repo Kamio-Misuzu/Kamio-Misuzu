@@ -53,7 +53,8 @@
 </a>
 
 ### 访客人数
-<a href="https://github.com/Kamio-Misuzu" target="_blank" rel="noopener noreferrer">
-    <img src="https://count.kjchmc.cn/get/@-Mouse-Pointer-Beautification?theme=asoul" alt="访问 Kamio-Misuzu 的 GitHub 主页">
+<a href="https://github.com/Kamio-Misuzu" target="_blank" rel="noopener noreferrer"
+   style="display: inline-flex; align-items: center; text-decoration: none; font-weight: bold; color: #333;">
+    <img src="https://count.kjchmc.cn/get/@-Mouse-Pointer-Beautification?theme=asoul" >
 </a>
-<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=Kamio-Misuzu&color=blueviolet) -->
+
