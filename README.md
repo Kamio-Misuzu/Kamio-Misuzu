@@ -52,5 +52,6 @@
   <img src="https://img.shields.io/badge/Bilibili-下北泽虹夏-00A1D6?style=flat&logo=bilibili&logoColor=white" alt="Bilibili">
 </a>
 
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Kamio-Misuzu&color=blueviolet)
+### 访客人数
+<img src="https://count.kjchmc.cn/get/@-Mouse-Pointer-Beautification?theme=asoul" alt="如果您无法看到此内容，请刷新页面。">  
+<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=Kamio-Misuzu&color=blueviolet) -->
