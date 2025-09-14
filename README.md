@@ -13,6 +13,7 @@
      @     @@  @@@ @@  @@    @    @@  @@    @@@@            @    @     @   @@  @@@@      @@@ @@ @@@@@@@   @@@ @@
 
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=8C43EA&vCenter=true&width=300&height=40&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Kamio-Misuzu)](https://git.io/typing-svg)
 
 
@@ -21,9 +22,11 @@
 - ❤ Forever Love Kamio Misuzu
 - ⚡Love anime and game development
 - 😀 Team up with me
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6663daf2-380c-4818-b3ba-0a4742b8a83c" alt="62424481_p0_master1200" width="500"/>
+  <img src="https://github.com/user-attachments/assets/73ec31d7-070a-4fd0-a8d8-f4ace25fdf6b" alt="62424481_p0_master1200" width="500"/>
 </div>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=FF6B8B&vCenter=true&width=500&height=60&lines=神尾+观铃（かみお+みすず）;请多关照(よろしくお願いします！))](https://github.com/DenverCoder1/readme-typing-svg)
 
